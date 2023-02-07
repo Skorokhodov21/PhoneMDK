@@ -1,0 +1,14 @@
+C:\Users\Skoro\source\repos\PhoneMDK\PhoneMDK\obj\Debug\netcoreapp3.1\PhoneMDK.csproj.AssemblyReference.cache
+C:\Users\Skoro\source\repos\PhoneMDK\PhoneMDK\obj\Debug\netcoreapp3.1\PhoneMDK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Skoro\source\repos\PhoneMDK\PhoneMDK\obj\Debug\netcoreapp3.1\PhoneMDK.AssemblyInfoInputs.cache
+C:\Users\Skoro\source\repos\PhoneMDK\PhoneMDK\obj\Debug\netcoreapp3.1\PhoneMDK.AssemblyInfo.cs
+C:\Users\Skoro\source\repos\PhoneMDK\PhoneMDK\obj\Debug\netcoreapp3.1\PhoneMDK.csproj.CoreCompileInputs.cache
+C:\Users\Skoro\source\repos\PhoneMDK\PhoneMDK\bin\Debug\netcoreapp3.1\PhoneMDK.exe
+C:\Users\Skoro\source\repos\PhoneMDK\PhoneMDK\bin\Debug\netcoreapp3.1\PhoneMDK.deps.json
+C:\Users\Skoro\source\repos\PhoneMDK\PhoneMDK\bin\Debug\netcoreapp3.1\PhoneMDK.runtimeconfig.json
+C:\Users\Skoro\source\repos\PhoneMDK\PhoneMDK\bin\Debug\netcoreapp3.1\PhoneMDK.runtimeconfig.dev.json
+C:\Users\Skoro\source\repos\PhoneMDK\PhoneMDK\bin\Debug\netcoreapp3.1\PhoneMDK.dll
+C:\Users\Skoro\source\repos\PhoneMDK\PhoneMDK\bin\Debug\netcoreapp3.1\PhoneMDK.pdb
+C:\Users\Skoro\source\repos\PhoneMDK\PhoneMDK\obj\Debug\netcoreapp3.1\PhoneMDK.dll
+C:\Users\Skoro\source\repos\PhoneMDK\PhoneMDK\obj\Debug\netcoreapp3.1\PhoneMDK.pdb
+C:\Users\Skoro\source\repos\PhoneMDK\PhoneMDK\obj\Debug\netcoreapp3.1\PhoneMDK.genruntimeconfig.cache
